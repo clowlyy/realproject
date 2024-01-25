@@ -1,2 +1,5 @@
 #include "project.h"
-void teshello(){}
+void teshello(string a)
+{
+    cout << a << endl;
+}
