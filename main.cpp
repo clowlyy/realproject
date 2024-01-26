@@ -7,4 +7,5 @@ int main()
     cin >> b;
     kurang(a, b);
     kali(a, b);
+    cout << tesku(a) << endl;
 }
