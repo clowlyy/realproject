@@ -1,8 +1,9 @@
 #include "project.h"
 int main()
 {
-    string a;
-    cout << "Masukkan string : ";
+    int b, a;
+    cout << "Masukkan angka :";
     cin >> a;
-    teshello(a);
+    cin >> b;
+    kurang(a, b);
 }
