@@ -6,4 +6,5 @@ int main()
     cin >> a;
     cin >> b;
     kurang(a, b);
+    kali(a, b);
 }
